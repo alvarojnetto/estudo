@@ -43,3 +43,8 @@ Mostra a lista de repositórios remotos cadastrados.
 ## git push origin main
 Empurra o código do repositório local para o repositório remoto. main é a branch que vai receber o código.
 
+## git pull origin main
+Pucha o repositório do branch main para o servidor local.
+
+
+
