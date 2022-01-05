@@ -40,7 +40,7 @@ Criar novo repositório no GitHub, colocar nome, descrição, público, README.m
 ## git remote -v
 Mostra a lista de repositórios remotos cadastrados.
 
-## git push origin main
+## git push -u origin main
 Empurra o código do repositório local para o repositório remoto. main é a branch que vai receber o código.
 
 ## git pull origin main
