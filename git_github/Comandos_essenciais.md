@@ -12,7 +12,7 @@ Após copiar a chave pública precisa ir ao GitHub e colar a chave pública ao a
 ## eval $(ssh-agent -s)
 Inicializar o SSH-Agent que vai lidar com as chaves.
 
-# ssh-add id_ed25519
+## ssh-add id_ed25519
 Entrega a chave para o SSH-Agent. Agora a chave SSH está pronta para ser utilizada.
 
 ## Gerar um token de acesso pessoal.
