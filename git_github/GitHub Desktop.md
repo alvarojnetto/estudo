@@ -7,5 +7,11 @@
 ## Aba History
 Mostra o passo a passo da criação.
 
-## Subir para o repositório remoto
-1. 
+## Abrir repositório no VSCode
+Repository > Open in Visual Studio Code (CTRL + SHIFT + A)
+
+## Empurrar para o GitHub
+Repository > Push (CTRL + P)
+
+## Ver os conflitos entre o repositório remoto e o repositório local
+Fetch origin (buscar origem)
