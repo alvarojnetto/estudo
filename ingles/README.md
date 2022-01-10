@@ -13,4 +13,4 @@
 |it   |it   |its  |its   |itself    |
 |we   |us   |our  |ours  |ourselves |
 |you  |you  |your |yours |yourselves|
-|they |tem  |their|theirs|themselves|
+|they |them |their|theirs|themselves|
