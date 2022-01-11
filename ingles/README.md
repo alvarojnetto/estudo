@@ -14,3 +14,10 @@
 |we   |us   |our  |ours  |ourselves |
 |you  |you  |your |yours |yourselves|
 |they |them |their|theirs|themselves|
+
+Demostrative pronouns
+|S    |P    |
+|:---:|:---:|
+|this |these|
+|that |those|
+
